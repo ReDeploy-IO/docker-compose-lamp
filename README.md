@@ -1,7 +1,6 @@
 # Classic LAMP environment built on Docker-compose
 
 Currently this project consists of:
-
 - CentOS 6
 - Apache 2.2
 - MySQL 5.6
