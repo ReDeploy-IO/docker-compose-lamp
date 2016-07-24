@@ -5,6 +5,5 @@ Currently this project consists of:
 - Apache 2.2
 - MySQL 5.6
 - PHP 5.6 ([Les RPM de Remi - Repository](http://rpms.famillecollet.com/))
-- 
 
 
